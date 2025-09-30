@@ -1,4 +1,4 @@
-# Linear Regression Project: Solutions
+# Linear Regression
 
 This project explores the fundamentals of linear regression using Scikit-learn, covering basic model fitting, data generation, and a practical application on the diabetes dataset. The solutions are implemented in the following Jupyter Notebooks:
 
